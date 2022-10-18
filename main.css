@@ -1,0 +1,45 @@
+h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    border: 1px solid green;
+    background-image: url('/Resources/picture1.jpeg');
+    text-align: center;
+}
+
+
+h2 {
+    font-family: Helvetica;
+    font-size: 36px;
+    font-weight: 32px;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+span {
+    color: blue;
+    font-weight: bold;
+    font-family: Helvetica;
+}
+
+img {
+    width: 200px;
+    height: 150px;
+}
+
+h2, p {
+    font-family: Helvetica;
+}
+
+#skyblue {
+    background-color: skyblue;
+}
+
+#lighcoral {
+    background-color: lightcoral;
+}
