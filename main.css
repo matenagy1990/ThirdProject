@@ -4,7 +4,7 @@ h1 {
     font-weight: bold;
     color: khaki;
     border: 1px solid green;
-    background-image: url('/Resources/picture1.jpeg');
+    background-image: url('picture1.jpeg');
     text-align: center;
 }
 
